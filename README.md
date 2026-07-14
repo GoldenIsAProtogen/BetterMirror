@@ -1,7 +1,7 @@
 # BetterMirror
 
 Makes the Main City Mirror Higher Resolution for better screenshots or for videos
-
-![{F3E90DE4-3AB9-43D9-A83A-2DE10FB9F3BE}](https://github.com/user-attachments/assets/8610e581-8277-4b35-994b-1a8db1958b0d)
-
-  
+<br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b3cb0277-cce9-4882-ae71-6da1cc085010"/>
+<br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/79a1b22b-3ddf-4165-9b96-f8ba68975c9a"/>
