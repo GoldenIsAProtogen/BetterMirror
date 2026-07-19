@@ -1,6 +1,6 @@
 # BetterMirror
 
-Makes the Main City Mirror Higher Resolution for better screenshots or for videos
+Makes the City & VIM mirror higher resolution for better screenshots or for videos 
 <br>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b3cb0277-cce9-4882-ae71-6da1cc085010"/>
 <br>
